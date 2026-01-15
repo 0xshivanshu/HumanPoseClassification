@@ -1,0 +1,18 @@
+# Python environment
+venv_yoga/
+venv/
+__pycache__/
+*.pyc
+
+# Data and Cache
+.cache/
+csv_files/
+final_data.csv
+*.archive
+
+# Large Models (Optional: keep if you want others to use your trained model)
+# models/
+
+# OS specific
+.DS_Store
+Thumbs.db
